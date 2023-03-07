@@ -1,6 +1,6 @@
 # Projeto Lessons Learned
 
-Essa foi o primeiro projeto que desenvolvi na Trybe, onde foi desenvolvido um site que contenha uma série de informações sobre o que eu aprendi longo dos primeiros três blocos. O seu site deverá estar com elementos posicionados e estilizados e, além disso, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
+Essa foi o primeiro projeto que desenvolvi na Trybe, onde foi feito um site que contenha uma série de informações sobre o que eu aprendi longo dos primeiros três blocos. O seu site deverá estar com elementos posicionados e estilizados e, além disso, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 
 # O que foi avaliado? 
 
