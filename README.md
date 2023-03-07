@@ -1,13 +1,30 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Lessons Learned
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Essa foi o primeiro projeto que desenvolvi na Trybe, onde foi desenvolvido um site que contenha uma série de informações sobre o que eu aprendi longo dos primeiros três blocos. O seu site deverá estar com elementos posicionados e estilizados e, além disso, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# O que foi avaliado? 
+
+- Aderência do código à especificação. Sua página deve se comportar como especificado na próxima seção.
+
+- Organização do seu código. Construa a estrutura do seu HTML dividindo as tags adequadamente e faça commits organizados.
+
+- A capacidade de estruturar semanticamente uma página HTML. Utilize as tags corretas, bem indentadas e com as classes e ids adequados.
+
+- A estrutura do seu CSS. Evite repetição. Combine e agrupe classes CSS bem definidas.
+
+# Objetivo do Projeto
+
+- Entender como funciona a estrutura (HTML) de uma página;
+
+- Entender como o estilo (CSS) é aplicado à página;
+
+- Construir páginas utilizando HTML e CSS;
+
+- Realizar manutenções em páginas já existentes;
+
+- Aplicar Layout e Box Model na prática. 
+
+# Stacks Utilizadas
+
+- HTML e CSS
+
